@@ -1,1 +1,45 @@
 This mini project is a web application that enables users to create and manage movie reviews using a tech stack of ReactJS, Spring Boot, and MongoDB. The application features key functionalities, including a user-friendly interface for submitting reviews, viewing a complete list of movies, and retrieving detailed information about films using their IMDb IDs. Users can securely register and log in, allowing them to contribute ratings and comments on their favorite movies. The application employs a RESTful API for seamless communication between the frontend and backend, facilitating efficient data management. With a focus on enhancing user experience and showcasing modern web development practices, this project serves as a valuable platform for movie enthusiasts to engage with and share their insights on films.
+
+NPM Packages and Installation Commands
+react-material-ui-carousel
+
+Command: npm i react-material-ui-carousel
+Description: Carousel component for React, providing smooth transitions and Material-UI styling.
+@mui/material, @emotion/react, @emotion/styled
+
+Command: npm i @mui/material @emotion/react @emotion/styled
+Description: Core libraries from MUI for pre-built components and powerful styling using Emotion.
+react-router-dom
+
+Command: npm i react-router-dom
+Description: Library for routing in React, enabling smooth navigation between components and pages.
+react-player
+
+Command: npm i react-player
+Description: Media player component for embedding and playing videos or audio clips.
+@fortawesome/free-solid-svg-icons
+
+Command: npm i @fortawesome/free-solid-svg-icons
+Description: Collection of solid icons from Font Awesome for enhancing UI design.
+@fortawesome/react-fontawesome
+
+Command: npm i @fortawesome/react-fontawesome
+Description: React wrapper for Font Awesome, simplifying the integration of icons.
+react-bootstrap
+
+Command: npm i react-bootstrap
+Description: Provides Bootstrap components as React components for responsive design.
+bootstrap
+
+Command: npm install bootstrap
+Description: The foundational Bootstrap framework, offering responsive layouts and UI components.
+axios
+
+Command: npm install axios
+Description: Promise-based HTTP client for making API requests and handling data fetching.
+concurrently
+
+Command: npm install concurrently --save-dev
+Description: Tool for running multiple commands simultaneously, enhancing development efficiency.
+Brief Overview of Packages
+These packages enhance the Movie Review Web Application by providing essential UI components, seamless navigation, media playback, and efficient API communication, creating a responsive and engaging user experience. They collectively streamline development and ensure a modern, interactive design.

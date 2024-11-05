@@ -6,6 +6,8 @@ const api = axios.create({
     // Optionally set headers, timeouts, etc.
 });
 
+export default api;  // This exports the axios instance as default
+
 // Used by the programmer
 
 // export default api;
